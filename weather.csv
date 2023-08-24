@@ -1,0 +1,15 @@
+﻿Outlook,Temp,Humidity,Windy,Play
+Rainy,Hot,High,f,no
+Rainy,Hot,High,t,no
+OverCast,Hot,High,f,yes
+Sunny,Mild,High,f,yes
+Sunny,Cool,Normal,f,yes
+Sunny,Cool,Normal,t,no
+OverCast,Cool,Normal,t,yes
+Rainy,Mild,High,f,no
+Rainy,Cool,Normal,f,yes
+Sunny,Mild,Normal,f,yes
+Rainy,Mild,Normal,t,yes
+OverCast,Mild,High,t,yes
+OverCast,Hot,Normal,f,yes
+Sunny,Mild,High,t,no
